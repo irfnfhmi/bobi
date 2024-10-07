@@ -10,6 +10,15 @@
    <pluginDefaultPropertiesList/>
    <environmentVariableList/>
    <messageList/>
-   <resourceList/>
+   <resourceList>
+      <appResource>
+         <id>Itinerary__Agenda___Important_Notes-_Joget_Pow_Wow_2024.pdf</id>
+         <appId>bobi</appId>
+         <appVersion>1</appVersion>
+         <filesize>191395</filesize>
+         <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+   </resourceList>
    <license>KeqJs9zxlVW1bqjQmqKt93dR54fJ6pCs106jxUy06wpfD67md6+Niw==</license>
 </appDefinition>
