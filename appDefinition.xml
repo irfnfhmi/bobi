@@ -24,7 +24,6 @@
          <appId>bobi</appId>
          <appVersion>1</appVersion>
          <filesize>21251</filesize>
-         <permissionClass></permissionClass>
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
    </resourceList>
