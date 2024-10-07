@@ -19,6 +19,14 @@
          <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
+      <appResource>
+         <id>joget_icon.png</id>
+         <appId>bobi</appId>
+         <appVersion>1</appVersion>
+         <filesize>21251</filesize>
+         <permissionClass></permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
    </resourceList>
    <license>KeqJs9zxlVW1bqjQmqKt93dR54fJ6pCs106jxUy06wpfD67md6+Niw==</license>
 </appDefinition>
